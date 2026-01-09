@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Abdulaziz+Yunusov;Nice+to+meet+you!;Здравствуйте%2C+я+Абдулазиз+Юнусов;Приятно+познакомиться!;Salom%2C+men+Abdulaziz+Yunusovman;Tanishganimdan+xursandman!;こんにちは、アブドゥラジズです;はじめまして！" alt="Typing SVG" />
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hello+I'm+Abdulaziz+Yunusov;Nice+to+meet+you!;%F0%9F%91%8B+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;Abdulaziz+%E3%81%A8+%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99%E3%80%82%E3%80%82+;%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99!;%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%B0%D0%B7%D0%B8%D0%B7.;%D0%9F%D1%80%D0%B8%D1%8F%D1%82%D0%BD%D0%BE+%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%B8%D1%82%D1%8C%D1%81%D1%8F!" alt="Typing SVG" /></a>
 <h3 align="center">
   Full-Stack Developer | Backend • Game Logic • Automation
 </h3>
