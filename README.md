@@ -6,21 +6,21 @@
     &center=true
     &vCenter=true
     &width=900
-    &lines=Hello%2C+I'm+Abdulaziz+Yunusov.;
+    &lines=I'm+Abdulaziz+Yunusov;
     Nice+to+meet+you!;
-    こんにちは、私はAbdulaziz+Yunusovです。;
-    よろしくお願いします！;
-    Привет%2C+я+Абдулазиз+Юнусов.;
+    私はAbdulaziz+Yunusovです;
+    よろしくお願いします!;
+    Я+Абдулазиз+Юнусов;
     Приятно+познакомиться!;
-    Salom%2C+men+Abdulaziz+Yunusovman.;
+    Men+Abdulaziz+Yunusovman;
     Tanishganimdan+xursandman!;
-    مرحبا،+أنا+عبدالعزيز+يونسوف;
-    +تشرفت+بلقائك!;
-    Hallo%2C+ich+bin+Abdulaziz+Yunusov.;
+    أنا+عبدالعزيز+يونسوف;
+    تشرفت+بلقائك!;
+    Ich+bin+Abdulaziz+Yunusov;
     Freut+mich%2C+dich+kennenzulernen!"
     alt="Multilingual Greeting" />
 </h1>
->
+
 <h3 align="center">
   Full-Stack Developer | Backend • Game Logic • Automation
 </h3>
