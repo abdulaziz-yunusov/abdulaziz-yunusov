@@ -21,6 +21,9 @@
     alt="Multilingual Greeting" />
 </h1>
 >
+<h3 align="center">
+  Full-Stack Developer | Backend • Game Logic • Automation
+</h3>
 
 ---
 
