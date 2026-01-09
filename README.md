@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abdulaziz</h1>
+<h3 align="center">Full-Stack Developer | Python • Django • JavaScript</h3>
 
-<!--
-**abdulaziz-yunusov/abdulaziz-yunusov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🔧 Full-Stack Developer focused on backend systems
+- 🎲 Building real-time and turn-based game logic
+- ⚙️ Interested in scalable architectures and clean code
+- 🌍 Based in Uzbekistan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Languages:** Python, JavaScript
+- **Frameworks:** Django
+- **Realtime:** WebSockets
+- **Databases:** PostgreSQL, SQLite
+- **Tools:** Git, GitHub
+
+---
+
+### 🚀 Projects
+- 🎮 **BlitzQuest** – Multiplayer board game with real-time logic
+- 🧩 **Business Automation** – Document generation & workflows
+- 🕹 **Game Systems** – Dice mechanics, ranking, player states
+
+---
+
+### 📫 Contact
+- 📧 Email: ayunusov238@gmail.com
+- 💬 Telegram: @yunusovdev
