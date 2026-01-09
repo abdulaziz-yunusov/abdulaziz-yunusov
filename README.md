@@ -1,26 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com
-    ?font=Fira+Code
-    &size=26
-    &pause=1400
-    &center=true
-    &vCenter=true
-    &width=900
-    &lines=I'm+Abdulaziz+Yunusov;
-    Nice+to+meet+you!;
-    私はAbdulaziz+Yunusovです;
-    よろしくお願いします!;
-    Я+Абдулазиз+Юнусов;
-    Приятно+познакомиться!;
-    Men+Abdulaziz+Yunusovman;
-    Tanishganimdan+xursandman!;
-    أنا+عبدالعزيز+يونسوف;
-    تشرفت+بلقائك!;
-    Ich+bin+Abdulaziz+Yunusov;
-    Freut+mich%2C+dich+kennenzulernen!"
-    alt="Multilingual Greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Abdulaziz+Yunusov;Nice+to+meet+you!;Здравствуйте%2C+я+Абдулазиз+Юнусов;Приятно+познакомиться!;Salom%2C+men+Abdulaziz+Yunusovman;Tanishganimdan+xursandman!;こんにちは、アブドゥラジズです;はじめまして！" alt="Typing SVG" />
 </h1>
-
 <h3 align="center">
   Full-Stack Developer | Backend • Game Logic • Automation
 </h3>
