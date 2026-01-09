@@ -29,4 +29,4 @@
 
 ### 📫 Contact
 - 📧 Email: ayunusov238@gmail.com
-- 💬 Telegram: @yunusovdev
+- 💬 Telegram: @ayunusovdev
