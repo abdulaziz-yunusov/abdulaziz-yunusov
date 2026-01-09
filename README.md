@@ -1,29 +1,74 @@
-<h1 align="center">Hi 👋, I'm Abdulaziz</h1>
-<h3 align="center">Full-Stack Developer | Python • Django • JavaScript</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=Fira+Code
+    &size=26
+    &pause=1400
+    &center=true
+    &vCenter=true
+    &width=900
+    &lines=Hello%2C+I'm+Abdulaziz+Yunusov.;
+    Nice+to+meet+you!;
+    こんにちは、私はAbdulaziz+Yunusovです。;
+    よろしくお願いします！;
+    Привет%2C+я+Абдулазиз+Юнусов.;
+    Приятно+познакомиться!;
+    Salom%2C+men+Abdulaziz+Yunusovman.;
+    Tanishganimdan+xursandman!;
+    مرحبا،+أنا+عبدالعزيز+يونسوف;
+    +تشرفت+بلقائك!;
+    Hallo%2C+ich+bin+Abdulaziz+Yunusov.;
+    Freut+mich%2C+dich+kennenzulernen!"
+    alt="Multilingual Greeting" />
+</h1>
+>
 
 ---
 
 ### 👨‍💻 About Me
-- 🔧 Full-Stack Developer focused on backend systems
-- 🎲 Building real-time and turn-based game logic
-- ⚙️ Interested in scalable architectures and clean code
+- 🔧 Full-Stack & Backend Developer
+- 🎮 Experience with game logic and turn-based systems
+- ⚙️ Building reliable backend and automation solutions
+- 🧩 Practical experience with business tools and document processing
 - 🌍 Based in Uzbekistan
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Python, JavaScript
-- **Frameworks:** Django
-- **Realtime:** WebSockets
-- **Databases:** PostgreSQL, SQLite
-- **Tools:** Git, GitHub
+
+**Languages**
+- Python
+- JavaScript
+- C# (.NET)
+
+**Frameworks & Platforms**
+- Django
+- Unity
+- .NET
+
+**Game & Realtime**
+- Unity Game Development
+- Game mechanics & turn systems
+- WebSockets
+
+**Databases**
+- PostgreSQL
+- SQLite
+- MySQL (basic knowledge)
+
+**Business & Automation**
+- 1C
+- Microsoft Word / Excel / PowerPoint (automation & document generation)
+
+**Design & Tools**
+- Figma (basic)
+- Git & GitHub
 
 ---
 
 ### 🚀 Projects
-- 🎮 **BlitzQuest** – Multiplayer board game with real-time logic
-- 🧩 **Business Automation** – Document generation & workflows
-- 🕹 **Game Systems** – Dice mechanics, ranking, player states
+- 🎲 **BlitzQuest** – Multiplayer turn-based board game (Django + WebSockets)
+- 🧩 **Business Automation Tools** – Document generation, workflows, reports
+- 🎮 **Game Systems** – Dice mechanics, rankings, player state logic
 
 ---
 
